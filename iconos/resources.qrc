@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix=" ">
+    <file>iconos/account-logout-48.ico</file>
+    <file>iconos/activity-feed-48 (1).ico</file>
+    <file>iconos/activity-feed-48.ico</file>
+    <file>iconos/close-window-48.ico</file>
+    <file>iconos/dashboard-5-48.ico</file>
+    <file>iconos/group-48.ico</file>
+    <file>iconos/home-4-48.ico</file>
+    <file>iconos/logoNext.png</file>
+    <file>iconos/menu-4-48.ico</file>
+    <file>iconos/product-48.ico</file>
+    <file>iconos/search-9-48.ico</file>
+    <file>iconos/user-48.ico</file>
+  </qresource>
+</RCC>

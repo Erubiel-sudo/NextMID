@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>iconos/account-logout-48.ico</file>
+    <file>iconos/activity-feed-48 (1).ico</file>
+    <file>iconos/close-window-48.ico</file>
+    <file>iconos/group-48.ico</file>
+    <file>iconos/home-4-48.ico</file>
+  </qresource>
+</RCC>
